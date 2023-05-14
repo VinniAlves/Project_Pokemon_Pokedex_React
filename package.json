@@ -1,7 +1,7 @@
 {
   "name": "pokedex",
   "version": "0.1.0",
-  "homepage": "https://VinniAlves.github.io/Project_Pokemon_Pokedex_React",
+  "homepage": "https://VinniAlves.github.io/github-page",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
